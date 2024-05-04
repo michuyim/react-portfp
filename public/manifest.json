@@ -1,0 +1,25 @@
+{
+  "short_name": "michuyim.uk",
+  "name": "Michuyim dotUK",
+  "icons": [
+    {
+      "src": "https://i.postimg.cc/Vk99fDzV/Whats-App-Image-2024-05-02-at-01-39-11.jpg",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "https://i.postimg.cc/Vk99fDzV/Whats-App-Image-2024-05-02-at-01-39-11.jpg",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://i.postimg.cc/Vk99fDzV/Whats-App-Image-2024-05-02-at-01-39-11.jpg",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "transparent"
+}
