@@ -18,7 +18,7 @@ function App() {
         <Route path="/about" element={<AboutPage />} />
         <Route path="/projects" element={<ProjectsPage />} />
         <Route path="/photos" element={<PhotosPage />} />
-        <Route path="'*'" element={<h1>PAGE NOT FOUND</h1>} />
+        <Route path="*" element={<h1>PAGE NOT FOUND</h1>} />
       </Routes>
     </Router>
    </div>
